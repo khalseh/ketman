@@ -1053,7 +1053,4 @@ return OBJDEF:new()
 --
 
 -- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- @ketmaan @ForoshBotAntiSpam
