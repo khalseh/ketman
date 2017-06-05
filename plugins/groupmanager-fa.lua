@@ -27,13 +27,13 @@ end
           lock_link = 'yes',
           lock_tag = 'yes',
 		  lock_fosh = 'yes',
-          lock_spam = 'no',
+          lock_spam = 'yes',
           lock_webpage = 'yes',
 		  lock_arabic = 'no',
           lock_markdown = 'yes',
-          flood = 'yes',
+          flood = 'no',
           lock_bots = 'yes',
-          welcome = 'yes'
+          welcome = 'no'
           },
    mutes = {
                   mute_forward = 'no',
@@ -3441,8 +3441,4 @@ patterns ={
 run=run,
 pre_process = pre_process
 }
--- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- @ketmaan @ForoshBotAntiSpam
