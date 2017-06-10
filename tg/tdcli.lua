@@ -2703,5 +2703,3 @@ M.sendForwarded = sendForwarded
 
 return M
 
--- کد های پایین در ربات نشان داده نمیشوند
--- @ketmaan @ForoshBotAntiSpam
