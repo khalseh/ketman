@@ -1,5 +1,9 @@
 # [KeTMaan](https://github.com/khalseh)
 
+
+* * *
+
+
 #  آموزش نصب 
 ```
 cd $Home
@@ -10,6 +14,7 @@ chmod +x ket.sh
 ./ket.sh
 ```
 # در اینجا باید شماره تلفن ربات وارد کنید 
+
 * * *
 
 #  برای همیشه اجرا ماندن ربات از کد زیر استفاده نمایید
@@ -21,6 +26,7 @@ screen ./ket.sh
 ```
 git clone https://github.com/khalseh/ketman.git && cd ketman && chmod +x ket.sh && ./ket.sh install && ./ket.sh
 ```
+
 * * *
 
 
