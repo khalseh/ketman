@@ -35,7 +35,7 @@ Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following 
   }
   ```
  # برای یادگیری و آموزش ساخت ربات انتی اسپم به ایدی های زیر مراجعه کنید.
-	@KeTMaan
-	@ForoshBotAntiSpam
+Ꙭ	[@KeTMaan](https://t.me/KeTMaan)
+Ꙭ	[@ForoshBotAntiSpam](https://t.me/ForoshBotAntiSpam)
 
 
